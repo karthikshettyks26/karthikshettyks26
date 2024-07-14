@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthikshettyks26
-- 👀 I’m Software Engineer crafting robust software solutions.
+-  I’m Software Engineer crafting robust software solutions.
 - Building things with Java, C#, Spring Boot, .NET and Rest APIs.
 - Passionate about clean code and efficient systems.
 
